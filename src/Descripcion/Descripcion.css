@@ -1,0 +1,23 @@
+/* Descripcion.css */
+
+/* Estilos para la sección que contiene la imagen */
+section:first-child {
+    text-align: center; /* Centrar la imagen */
+  }
+  
+  /* Estilos para la sección de la descripción */
+  section.fst-italic {
+    max-width: 800px; /* Ancho máximo para la descripción */
+    margin: auto; /* Centrar el contenido */
+    padding: 20px; /* Añadir espacio alrededor del contenido */
+    font-size: 18px; /* Tamaño de fuente */
+    line-height: 1.5; /* Altura de línea para una mejor legibilidad */
+  }
+  
+  /* Estilos para el título "Quienes Somos" */
+  h1 {
+    color: #007bff; /* Cambiar color del título */
+    font-size: 28px; /* Tamaño de fuente del título */
+    margin-bottom: 10px; /* Añadir espacio debajo del título */
+  }
+  

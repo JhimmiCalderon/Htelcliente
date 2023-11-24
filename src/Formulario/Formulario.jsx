@@ -1,3 +1,4 @@
+
 export function Formulario() {
     return (
         <>
@@ -52,6 +53,7 @@ export function Formulario() {
                 </div>
                 <div className="row"></div>
             </form >
+            
         </>
     )
 }
